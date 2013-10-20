@@ -1,0 +1,2 @@
+blender
+/home/stef/Apps/blender/blender-2.69-RC1-linux-glibc211-x86_64/blender
