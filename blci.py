@@ -7,7 +7,6 @@ import wx
 import bclifilebrowser as bfb
 import sendtoblender as stb
 # begin wxGlade: extracode
-# end wxGlade
 
 
 class Bcli(wx.Frame):
