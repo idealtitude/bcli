@@ -10,7 +10,6 @@ import sendtoblender as stb
 # end wxGlade
 
 
-
 class Bcli(wx.Frame):
 	def __init__(self, *args, **kwds):
 		# begin wxGlade: Bcli.__init__
